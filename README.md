@@ -1,0 +1,6 @@
+![plot](./src/assets/images/assignment-8.1.jpeg)
+![plot](./src/assets/images/assignment-8.2.jpeg)
+![plot](./src/assets/images/assignment-8.3.jpeg)
+![plot](./src/assets/images/assignment-8.4.jpeg)
+![plot](./src/assets/images/assignment-8.5.jpeg)
+![plot](./src/assets/images/assignment-8.6.jpeg)
